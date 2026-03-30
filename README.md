@@ -26,7 +26,7 @@ You can find more information about the license in the LICENSE file.
 - 4) It is not a fork because, tried but, incompatible with lfs to provide big lfs .blend files see [#5](/../../issues/5)
 
 - 5) Contributors, please, conform to https://www.conventionalcommits.org/en/v1.0.0/ for better automatic contribution (commit without sudo to success)
-- .blend original source : https://github.com/LluisV/Z-Anatomy/tree/PC-Version?tab=readme-ov-file lbl654225. (Let's says it is Z-Anatomy v0.9.9.7.5 -> Now Main Compatible Major.Minor.Bug notation)
+
 
 Le20250729 :
 
